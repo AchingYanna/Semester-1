@@ -18,6 +18,7 @@ CPU means ‘Central Processing Unit’. This is the place of computer data hand
 A graphics processing unit (GPU) is a specialized electronic circuit initially designed for digital image processing and to accelerate computer graphics, being present either as a discrete video card or embedded on motherboards, mobile phones, personal computers, workstations, and game consoles.
 
 <h2><b>4.APUs (Accelerated Processing Units)</b></h2><br>
+<img src="https://github.com/user-attachments/assets/5b73509d-e014-47a3-9286-7904b1498e26"><br>
 An accelerated processing unit (APU) is a microprocessor that combines the central processing unit (CPU) with the graphics processing unit (GPU) on a single computer chip.
 
 <h2><b>5.DPUs (Data Processing Units)</b></h2><br>
@@ -27,15 +28,18 @@ A data processing unit (DPU) is a programmable computer processor that tightly i
 Specifically, RAM stands for “Random Access Memory” or “Ready Access Memory”. It is a temporary notepad where your computer sends information to disk, or to the storage place of instructions from other input devices. The term “random access” indicates that memory locations in RAM are accessible in any order unlike sequential access of a data cassette tape.
 
 <h2><b>7.FPGAs (Field Programming Gate Arrays)</h2></b>
+  <img src="https://github.com/user-attachments/assets/798b4ed8-5b62-4f57-b2f1-1749f70ac444"><br>
 A field-programmable gate array (FPGA) is a type of configurable integrated circuit that can be repeatedly programmed after manufacturing. FPGAs are a subset of logic devices referred to as programmable logic devices (PLDs). They consist of an array of programmable logic blocks with a connecting grid, that can be configured "in the field" to interconnect with other logic blocks to perform various digital functions
 
 <h2><b>8.NPUs (Nerual Processing Units) or AI accelerators/</b></h2><br>
 An AI accelerator, deep learning processor or neural processing unit (NPU) is a class of specialized hardware accelerator[1] or computer system designed to accelerate artificial intelligence and machine learning applications, including artificial neural networks and computer vision. Typical applications include algorithms for robotics, Internet of Things, and other data-intensive or sensor-driven tasks.
   
 <h2><b>9.CISCS (Computer Instruction Set Commands)</b></h2><br>
+<img src="https://github.com/user-attachments/assets/8aff1e8a-8c33-4361-8a05-3059c49f387a"><br>
 A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations or are capable of multi-step operations.
 
 <h2><b>10.RISCs (Reduced Instruction Set Commands)</b></h2><br>
+<img src="https://github.com/user-attachments/assets/7a199e85-df0f-4549-bb75-ddf7953510a9"><br>
 In electronics and computer science, a reduced instruction set computer (RISC) is a computer architecture designed to simplify the individual instructions given to the computer to accomplish tasks. Compared to the instructions given to a complex instruction set computer (CISC), a RISC computer might require more instructions (more code) in order to accomplish a task because the individual instructions are written in simpler code.
 
 <h2><b>11.RISC-V</b></h2><br>
@@ -65,6 +69,7 @@ In computing, BIOS (Basic Input/Output System, also known as the System BIOS, RO
 Virtual machines (VMs) allow a business to run an operating system that behaves like a completely separate computer in an app window on a desktop. VMs may be deployed to accommodate different levels of processing power needs, to run software
 
 <h2><b>5.Kernel</b></h2><br>
+<img src="https://github.com/user-attachments/assets/a5c89bf1-50c0-4472-9fec-b0495ccbe400"> <br>
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
 <h2><b>6.Cache</b></h2><br>
@@ -77,6 +82,7 @@ In computing, a compiler is a computer program that translates computer code wri
 A debugger or debugging tool is a computer program used to test and debug other programs (the "target" program). The main use of a debugger is to run the target program under controlled conditions that permit the programmer to track its execution and monitor changes in computer resources that may indicate malfunctioning code.
 
 <h2><b>9.DevOps</b></h2><br>
+<img src="https://github.com/user-attachments/assets/ead2fc6a-bff2-4412-8b4a-877f42da09c0"><br>
 DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops) as a means for improving and shortening the systems development life cycle.DevOps is complementary to agile software development; several DevOps aspects came from the agile way of working. 
 
 <h2><b>10.Firmware</b></h2><br>
@@ -95,6 +101,7 @@ n IP address is a unique set of numbers or combination of letters and numbers th
 IPv6 is the latest version of internet protocol that expands the number of possible IP addresses from the 4.3 billion possible with IPv4 to 340 trillion trillion in order to accommodate unique addresses for every device likely to be attached to the public internet.
 
 <h2><b>4.Dynamic Host Configuration Protocol (DHCP)</b></h2><br>
+<img src="https://github.com/user-attachments/assets/38c2b991-df62-45a2-962a-1bb46e5ac50b"><br>
 DHCP stands for dynamic host-configuration protocol, an IP-network protocol  used for a server to automatically assign networked devices with IP addresses on the fly and and share other information to those devices so they can communicate efficiently with other endpoints.
 
 <h2><b>5.DNS (Domain Name System)</b></h2><br>
@@ -106,7 +113,7 @@ A virtual private network can create secure remote-access and site-to-site conne
 <h2><b>7.OSI (Open System Interconnection)</b></h2><br>
 The Open Systems Interconnection (OSI) model is a reference model from the International Organization for Standardization (ISO) that "provides a common basis for the coordination of standards development for the purpose of systems interconnection.
 
-<h2><b>8.The 7 layers of OSI model:-</b></h2><br>
+<h2><b>The 7 layers of OSI model:-</b></h2><br>
 <img src="https://github.com/user-attachments/assets/5247cc68-aed6-43d5-a6b8-820267859793">
 
   <b>*Layer 7 : Application Layer</b> - The application layer is used by end-user software such as web browsers and email clients. <br>
@@ -122,6 +129,12 @@ The Open Systems Interconnection (OSI) model is a reference model from the Inter
  <b>*Layer 2 : Data-Link-Layer </b>- The data link layer establishes and terminates a connection between two physically-connected nodes on a network.<br>
  
  <b>*Layer 1 : Physical Layer</b> - The physical layer is responsible for the physical cable or wireless connection between network nodes.<br>
+
+ <h2><b>8.LAN (Local Area Network)</b></h2><br>
+ A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building.
+
+ <h2><b>9.WAN (Wide Area Network)</b></h2><br>
+Wide area network (WAN) is a telecommunications network that extends over a large geographic area. Wide area networks are often established with leased telecommunication circuits.
 
 
 
