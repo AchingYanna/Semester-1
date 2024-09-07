@@ -1,8 +1,5 @@
 # TermsAndKeywords---S1-
 Some Important and Commonly used keywords 
-# TermsAndDefinitions
-Basic Terms and Definitions related to Computer Science, useful for anyone starting out or Just looking out.
-
 <h1>**HARDWARE TERMS**</h1>
 <body>
 Hardware is the term referring to all the physical parts in a computer system. It includes the monitor, the keyboard, the mouse, the main case which stores the RAM, CPU and the motherboard.
