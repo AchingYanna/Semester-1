@@ -3,7 +3,7 @@
 Basic Terms and Definitions related to Computer Science, useful for anyone starting or Just looking out.
 
 <h1>**HARDWARE TERMS**</h1><br>
-![hard](https://github.com/user-attachments/assets/18af81f6-1cf6-4bf0-8eb2-df6515d82cd6)
+
 Hardware is the term referring to all the physical parts in a computer system. It includes the monitor, the keyboard, the mouse, the main case which stores the RAM, CPU and the motherboard.
 
 <h2><b>1.Motherboard</h2></b><br>
