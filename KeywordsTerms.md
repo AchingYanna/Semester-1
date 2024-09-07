@@ -57,7 +57,7 @@ A processor register is a quickly accessible location available to a computer's 
 <img src="https://github.com/user-attachments/assets/a77bb36d-4957-4b77-b850-c0107cc08ded">
 Software consists of computer programs that instruct the execution of a computer.
 
-<h2><b>1.OS (Operating Syatem)</b></h2><br>
+<h2><b>1.OS (Operating System)</b></h2><br>
 An operating system (OS) is system software that manages computer hardware and software resources, and provides common services for computer programs. 
 
 <h2><b>2.BIOS</b></h2><br>
@@ -136,7 +136,7 @@ Wide area network (WAN) is a telecommunications network that extends over a larg
 
 
 
-<h1><b>**OPERATING SYYSTEMS**</b></h1><br>
+<h1><b>**OPERATING SYSTEMS**</b></h1><br>
 <img src="https://github.com/user-attachments/assets/231fe4fe-2d68-4417-9b61-e7f25388649d">
 <h2><b>1. Microsoft Windows</b></h2><br>
 Created by Microsoft and launched in 1985, it runs on personal computers and uses C, C++, and C# languages.
