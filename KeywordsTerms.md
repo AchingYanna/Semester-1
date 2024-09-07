@@ -3,7 +3,7 @@
 Basic Terms and Definitions related to Computer Science, useful for anyone starting or Just looking out.
 
 <h1>**HARDWARE TERMS**</h1><br>
-<img src="https://www.ifixit.com/Device/Computer_Hardware"><br>
+<img src="https://github.com/user-attachments/assets/c6235bda-cd14-4bf1-b838-1b9171c09c20"><br>
 
 Hardware is the term referring to all the physical parts in a computer system. It includes the monitor, the keyboard, the mouse, the main case which stores the RAM, CPU and the motherboard.
 
@@ -52,6 +52,7 @@ A processor register is a quickly accessible location available to a computer's 
 
 
 <h1><b>**SOFTWARE**</b></h1><br>
+<img src="https://github.com/user-attachments/assets/a77bb36d-4957-4b77-b850-c0107cc08ded">
 Software consists of computer programs that instruct the execution of a computer.
 
 <h2><b>1.OS (Operating Syatem)</b></h2><br>
@@ -83,6 +84,7 @@ In computing, firmware is software that provides low-level control of computing 
 
 
 <h1><b>**NETWORK TERMS**</b></h1><br>
+<img src="https://github.com/user-attachments/assets/9675a8c8-cd07-433d-ba54-3a5b86bb2c31">
 <h2><b>1.ISP (Internet Service Provider)</b></h2>>br>
 An Internet service provider (ISP) is an organization that provides myriad services related to accessing, using, managing, or participating in the Internet. ISPs can be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned.
 
@@ -105,6 +107,7 @@ A virtual private network can create secure remote-access and site-to-site conne
 The Open Systems Interconnection (OSI) model is a reference model from the International Organization for Standardization (ISO) that "provides a common basis for the coordination of standards development for the purpose of systems interconnection.
 
 <h2><b>8.The 7 layers of OSI model:-</b></h2><br>
+<img src="https://github.com/user-attachments/assets/5247cc68-aed6-43d5-a6b8-820267859793">
 
   <b>*Layer 7 : Application Layer</b> - The application layer is used by end-user software such as web browsers and email clients. <br>
   
@@ -123,6 +126,7 @@ The Open Systems Interconnection (OSI) model is a reference model from the Inter
 
 
 <h1><b>**OPERATING SYYSTEMS**</b></h1><br>
+<img src="https://github.com/user-attachments/assets/231fe4fe-2d68-4417-9b61-e7f25388649d">
 <h2><b>1. Microsoft Windows</b></h2><br>
 Created by Microsoft and launched in 1985, it runs on personal computers and uses C, C++, and C# languages.
 
@@ -136,7 +140,7 @@ Android is a mobile operating system based on Linux and other open-source softwa
 Linux is not a single operating system. It is a family of related OS options based on the same framework, called the Linux kernel. Like other operating systems, it relies mainly on C and related computer languages. The unique thing about Linux is that it is open source. Most Linux versions are created and updated by communities of developers.
 <br>
 <h3>Popular distributions of Linux</h3>
-
+<img src="https://github.com/user-attachments/assets/1486adeb-5dce-4e4a-a693-79a3edd05ed0"><br>
    <b>*Ubuntu </b>: Ubuntu, introduced in 2004, is an example of a Linux-based OS. It is open source and free to useMost versions come with a browser, email client, file management, media players, office suite, and other features already installed.Ubuntu is a good option for people who are new to Linux.<br>
    
    <b>*Debian</b> : Debian is an open source operating system. This distribution was first announced by Ian Murdock in 1993 as the “Debian Linux Release”. The Debian Project is a community of developers and users that maintain the GNU OS based on open source software. Currently, Debian systems use the Linux kernel or the FreeBSD kernel. However, they are also working on providing Debian for other kernels. Primarily, GNU Hurd.<br>
@@ -153,6 +157,7 @@ Chrome OS is another Linux-based operating system. It was developed by Google an
 
 
 <h1><b>**PROGRAMMING LANGUAGES**</b></h1><br>
+<img src="https://github.com/user-attachments/assets/eb2e250e-bd89-4c1c-b2ce-2fe3ce59093a">
 A programming language is a system of notation for writing computer programs.Languages usually provide features such as a type system, variables, and mechanisms for error handling. 
 
 <b>#)SYNTAX</b>- Syntax refers to the rules that define the structure of a language. Syntax in computer programming means the rules that control the structure of the symbols, punctuation, and words of a programming language.
