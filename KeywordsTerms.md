@@ -48,11 +48,9 @@ As a RISC architecture, the RISC-V ISA is a load–store architecture. Notable f
 <h2><b>12.SOC (System on a chip)</b></h2><br>
 A system on a chip or system-on-chip is an integrated circuit that integrates most or all components of a computer or other electronic system. These components almost always include on-chip central processing unit (CPU), memory interfaces, input/output devices and interfaces, and secondary storage interfaces, often alongside other components such as radio modems and a graphics processing unit (GPU) – all on a single substrate or microchip.
 
-<h2><b>13.CXL (Compute Express Link)</b></h2><Br>
-Compute Express Link (CXL) is an open standard interconnect for high-speed, high capacity central processing unit (CPU)-to-device and CPU-to-memory connections, designed for high performance data center computers.
-
-<h2><b>14.Processor Registers</b></h2><br>
+<h2><b>13.Processor Registers</b></h2><br>
 A processor register is a quickly accessible location available to a computer's processor. Registers usually consist of a small amount of fast storage, although some registers have specific hardware functions, and may be read-only or write-only.
+
 
 
 <h1><b>**SOFTWARE**</b></h1><br>
@@ -197,6 +195,10 @@ Python is widely regarded as a programming language that’s easy to learn, due 
 <h2><b>7.R</b></h2><br>
 R is a programming language for statistical computing and data visualization. It has been adopted in the fields of data mining, bioinformatics, and data analysis.
 
+
+<h1><b>**BLOCKCHAIN**</b></h1><br>
+<img src="https://github.com/user-attachments/assets/4b2eb1dd-07f3-4e8d-9d3e-ac8bfa3cef7d"><br>
+Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network.Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and cutting costs for all involved.As each transaction occurs, it is recorded as a “block” of data.Those transactions show the movement of an asset that can be tangible or intangible. Each block is connected to the ones before and after it. These blocks form a chain of data as an asset moves from place to place or ownership changes hands. The blocks confirm the exact time and sequence of transactions, and the blocks link securely together to prevent any block from being altered or a block being inserted between two existing blocks.
 </body>
 
     
