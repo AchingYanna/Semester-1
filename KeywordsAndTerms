@@ -59,9 +59,6 @@ In computing, BIOS (Basic Input/Output System, also known as the System BIOS, RO
 3.Virtual Machine
 Virtual machines (VMs) allow a business to run an operating system that behaves like a completely separate computer in an app window on a desktop. VMs may be deployed to accommodate different levels of processing power needs, to run software
 
-4.C Programming language
-C is a general-purpose programming language. It was created in the 1970s by Dennis Ritchie and remains very widely used and influential.
-
 5.Kernel
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
@@ -133,8 +130,42 @@ Popular Distributions of Linux:-
     #)  Debian : Debian is an open source operating system. This distribution was first announced by Ian Murdock in 1993 as the “Debian Linux Release”. The Debian Project is a community of developers and users that maintain the GNU OS based on open source software. Currently, Debian systems use the Linux kernel or the FreeBSD kernel. However, they are also working on providing Debian for other kernels. Primarily, GNU Hurd.
 
     #)  Fedora : Fedora is a Linux distribution developed by the Fedora Project — sponsored mainly by Red Hat, with support from other companies. It is developed and maintained by the community and it is an upstream source of the commercial RHEL (Red Hat Enterprise Linux) distribution. Fedora usually has more modern software versions, considered as “non stable”, that are later included in RHEL. There are different Fedora editions available: Workstation, Server, CoreOS, Silverblue and IoT. Fedora Linux was launched in 2003.
-
+    
     #)  Arch Linux : Arch Linux is a Linux distribution based on 5 principles: simplicity, modernity, pragmatism, user centrality and versatility. It features a rolling release model. [Rolling release, also known as rolling update or continuous delivery, is a concept in software development of frequently delivering updates to applications.[]
 
 5.Chrome OS
 Chrome OS is another Linux-based operating system. It was developed by Google and has the popular Chrome web browser as it
+
+
+
+
+**PROGRAMMING LANGUAGES**
+A programming language is a system of notation for writing computer programs.Languages usually provide features such as a type system, variables, and mechanisms for error handling. 
+
+#)SYNTAX- Syntax refers to the rules that define the structure of a language. Syntax in computer programming means the rules that control the structure of the symbols, punctuation, and words of a programming language.
+
+
+1.C 
+C was the first programming language introduces. It has served as the foundation for writing more modern languages such as Python, Ruby, and PHP. It is also an easy language to debug, test, and maintain.C also has a complex syntax as compared to more modern languages.
+
+2.C++
+C++ is an extension of C that works well for programming the systems that run applications, as opposed to the applications themselves. C++ also works well for multi-device and multi-platform systems.
+
+3.C#
+Microsoft developed C# as a faster and more secure variant of C. It is fully integrated with Microsoft’s .NET software framework, which supports the development of applications for Windows, browser plug-ins, and mobile devices. C# offers shared codebases, a large code library, and a variety of data types.
+
+4.JAVA
+Java is the programming language most commonly associated with the development of client-server applications, which are used by large businesses around the world.
+
+5.JAVA Script
+JavaScript is the most popular programming language for building interactive websites.programmers can use JavaScript to produce web content on the server before a page is sent to the browser, which can be used to build games and communication applications that run directly in the browser.
+
+6.Python
+Python is widely regarded as a programming language that’s easy to learn, due to its simple syntax, a large library of standards and toolkits, and integration with other popular programming languages such as C and C++.
+
+7.R
+R is a programming language for statistical computing and data visualization. It has been adopted in the fields of data mining, bioinformatics, and data analysis.
+
+
+
+    
