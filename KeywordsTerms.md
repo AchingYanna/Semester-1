@@ -27,29 +27,22 @@ A data processing unit (DPU) is a programmable computer processor that tightly i
 <h2><b>6.RAM</b></h2><br>
 Specifically, RAM stands for “Random Access Memory” or “Ready Access Memory”. It is a temporary notepad where your computer sends information to disk, or to the storage place of instructions from other input devices. The term “random access” indicates that memory locations in RAM are accessible in any order unlike sequential access of a data cassette tape.
 
-<h2><b>7.FPGAs (Field Programming Gate Arrays)</h2></b>
-  <img src="https://github.com/user-attachments/assets/798b4ed8-5b62-4f57-b2f1-1749f70ac444"><br>
-A field-programmable gate array (FPGA) is a type of configurable integrated circuit that can be repeatedly programmed after manufacturing. FPGAs are a subset of logic devices referred to as programmable logic devices (PLDs). They consist of an array of programmable logic blocks with a connecting grid, that can be configured "in the field" to interconnect with other logic blocks to perform various digital functions
-
-<h2><b>8.NPUs (Nerual Processing Units) or AI accelerators/</b></h2><br>
+<h2><b>7.NPUs (Nerual Processing Units) or AI accelerators/</b></h2><br>
 An AI accelerator, deep learning processor or neural processing unit (NPU) is a class of specialized hardware accelerator[1] or computer system designed to accelerate artificial intelligence and machine learning applications, including artificial neural networks and computer vision. Typical applications include algorithms for robotics, Internet of Things, and other data-intensive or sensor-driven tasks.
   
-<h2><b>9.CISCS (Computer Instruction Set Commands)</b></h2><br>
+<h2><b>8.CISCS (Computer Instruction Set Commands)</b></h2><br>
 <img src="https://github.com/user-attachments/assets/8aff1e8a-8c33-4361-8a05-3059c49f387a"><br>
 A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations or are capable of multi-step operations.
 
-<h2><b>10.RISCs (Reduced Instruction Set Commands)</b></h2><br>
+<h2><b>9.RISCs (Reduced Instruction Set Commands)</b></h2><br>
 <img src="https://github.com/user-attachments/assets/7a199e85-df0f-4549-bb75-ddf7953510a9"><br>
 In electronics and computer science, a reduced instruction set computer (RISC) is a computer architecture designed to simplify the individual instructions given to the computer to accomplish tasks. Compared to the instructions given to a complex instruction set computer (CISC), a RISC computer might require more instructions (more code) in order to accomplish a task because the individual instructions are written in simpler code.
 
-<h2><b>11.RISC-V</b></h2><br>
+<h2><b>10.RISC-V</b></h2><br>
 As a RISC architecture, the RISC-V ISA is a load–store architecture. Notable features of the RISC-V ISA include: instruction bit field locations chosen to simplify the use of multiplexers in a CPU,
 
-<h2><b>12.SOC (System on a chip)</b></h2><br>
+<h2><b>13.SOC (System on a chip)</b></h2><br>
 A system on a chip or system-on-chip is an integrated circuit that integrates most or all components of a computer or other electronic system. These components almost always include on-chip central processing unit (CPU), memory interfaces, input/output devices and interfaces, and secondary storage interfaces, often alongside other components such as radio modems and a graphics processing unit (GPU) – all on a single substrate or microchip.
-
-<h2><b>13.Processor Registers</b></h2><br>
-A processor register is a quickly accessible location available to a computer's processor. Registers usually consist of a small amount of fast storage, although some registers have specific hardware functions, and may be read-only or write-only.
 
 
 
@@ -162,7 +155,7 @@ Linux is not a single operating system. It is a family of related OS options bas
   <br>  
   
 <h2><b>5.Chrome OS</b></h2><br>
-Chrome OS is another Linux-based operating system. It was developed by Google and has the popular Chrome web browser as it
+Chrome OS is another Linux-based operating system. It was developed by Google and has the popular Chrome web browser as its primary user interface.
 
 
 
