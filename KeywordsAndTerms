@@ -29,13 +29,13 @@ A field-programmable gate array (FPGA) is a type of configurable integrated circ
 An AI accelerator, deep learning processor or neural processing unit (NPU) is a class of specialized hardware accelerator[1] or computer system designed to accelerate artificial intelligence and machine learning applications, including artificial neural networks and computer vision. Typical applications include algorithms for robotics, Internet of Things, and other data-intensive or sensor-driven tasks.
   
 9.CISCS (Computer Instruction Set Commands)
-A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions.
+A complex instruction set computer (CISC) is a computer architecture in which single instructions can execute several low-level operations or are capable of multi-step operations.
 
 10.RISCs (Reduced Instruction Set Commands)
 In electronics and computer science, a reduced instruction set computer (RISC) is a computer architecture designed to simplify the individual instructions given to the computer to accomplish tasks. Compared to the instructions given to a complex instruction set computer (CISC), a RISC computer might require more instructions (more code) in order to accomplish a task because the individual instructions are written in simpler code.
 
 11.RISC-V
-As a RISC architecture, the RISC-V ISA is a load–store architecture. Its floating-point instructions use IEEE 754 floating-point. Notable features of the RISC-V ISA include: instruction bit field locations chosen to simplify the use of multiplexers in a CPU,
+As a RISC architecture, the RISC-V ISA is a load–store architecture. Notable features of the RISC-V ISA include: instruction bit field locations chosen to simplify the use of multiplexers in a CPU,
 
 12.SOC (System on a chip)
 A system on a chip or system-on-chip is an integrated circuit that integrates most or all components of a computer or other electronic system. These components almost always include on-chip central processing unit (CPU), memory interfaces, input/output devices and interfaces, and secondary storage interfaces, often alongside other components such as radio modems and a graphics processing unit (GPU) – all on a single substrate or microchip.
@@ -44,7 +44,7 @@ A system on a chip or system-on-chip is an integrated circuit that integrates mo
 Compute Express Link (CXL) is an open standard interconnect for high-speed, high capacity central processing unit (CPU)-to-device and CPU-to-memory connections, designed for high performance data center computers.
 
 14.Processor Registers
-A processor register is a quickly accessible location available to a computer's processor.[1] Registers usually consist of a small amount of fast storage, although some registers have specific hardware functions, and may be read-only or write-only.
+A processor register is a quickly accessible location available to a computer's processor. Registers usually consist of a small amount of fast storage, although some registers have specific hardware functions, and may be read-only or write-only.
 
 
 **SOFTWARE**
@@ -63,7 +63,7 @@ Virtual machines (VMs) allow a business to run an operating system that behave
 The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. The kernel is also responsible for preventing and mitigating conflicts between different processes.
 
 6.Cache
-In computing, a cache (/kæʃ/ ⓘ KASH)[1] is a hardware or software component that stores data so that future requests for that data can be served faster; the data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere.
+In computing, a cache is a hardware or software component that stores data so that future requests for that data can be served faster; the data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere.
 
 7.Compiler
 In computing, a compiler is a computer program that translates computer code written in one programming language (the source language) into another language (the target language).
