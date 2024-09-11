@@ -262,7 +262,8 @@ Raft is a consensus algorithm designed as an alternative to the Paxos family of 
 <img src="https://github.com/user-attachments/assets/ab42ffc5-6a20-4d5f-acd4-5e4a89fc4d3e" height="400"><br>
 Kivy is a free and open source Python framework for developing mobile apps and other multitouch application software with a natural user interface (NUI). It is distributed under the terms of the MIT License, and can run on Android, iOS, Linux, macOS, and Windows. 
 
-
+<h1><b>50. Crypto Mining</b></h1>
+The process of creating new coins in a cryptocurrency network is referred to as "mining" because it is analogous to a digital version of the process by which gold is extracted from the earth and added to circulation.n a decentralized blockchain network, miners are needed to validate transactions and preserve the integrity of the distributed digital ledger. Mining rewards are used as economic incentives to encourage people to participate in mining and to help secure the decentralized network.
 
 
 </body>
