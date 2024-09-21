@@ -2,11 +2,19 @@
 <img src="https://github.com/user-attachments/assets/b8007547-9d36-47f7-9450-0a42bdc9abae" height = "400", width = "800"><br><br>
 Docker is a set of <b>platform as a service (PaaS)</b> products that use OS-level virtualization to deliver software in packages called <b>containers</b>. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine.Docker is a tool that is used to automate the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation.
 
-<h1><b>Common Commands</b></h1><br><br>
+<h1><b>Table Of Contents</b></h1>
+- <a href = "common">Common Commands</a> <br>
+- <a href = "pull">Docker Pull Command</a><br>
+- <a href="ps">Ps Command</a><br>
+-<a href="stop">Stop Command</a><br>
+-<a href="rm">RM command</a><br>
+-<a href="img">IMG command</a><br>
+-<a href="rmi">RMI command</a><br>
+<h1 id ="common">Common Commands</h1><br><br>
 <img src="https://github.com/user-attachments/assets/4db13d19-6237-479a-9b95-c03eb2000a6f" height="400",width="400"><br>
 Docker is an open-source project that automates the deployment of applications as movable, independent containers that can run locally or in the cloud. You can divide your applications from your infrastructure with the help of Docker, allowing for quick software delivery and it also allows you to manage your infrastructure in the same ways that you manage your applications. The number of commands found in docker is very huge in number, but we will be looking at the top commands in 
 
-<h3><b>1.Docker Pull command</b></h3><br>
+<h3 id ="pull"><b>1.Docker Pull command</b></h3><br>
 
         docker pull <image_name>
 This command allows you to pull any image which is present in the official registry of docker, Docker hub. By default, it pulls the latest image, but you can also mention the version of the image.<br>
@@ -29,7 +37,7 @@ Here i executed the run command on the <b>Centos</b> image. The <b>Sleep 20</b> 
 
 Where "n" is the number of seconds you want the container to run     
 
-<h2><b>3. Docker ps</b></h2>
+<h2 id ="ps"><b>3. Docker ps</b></h2>
 This command (by default) shows us a list of all the running containers. We can use various flags with it.
 
   *  <h3><b>-a</b> flag</h3><br><br>
@@ -44,7 +52,7 @@ This command (by default) shows us a list of all the running containers. We can 
        <img src="https://github.com/user-attachments/assets/f848e4a7-3fa6-45da-8bbc-488be8ca8604">
 
 
-<h3><b>4. Docker Stop</b></h3>
+<h3 id ="stop"><b>4. Docker Stop</b></h3>
 
       docker stop <container_ID>
 This command allows you to stop a container if it has crashed or you want to switch to another one<br><br>
@@ -58,7 +66,7 @@ This command allows you to stop a container if it has crashed or you want to swi
   <img src="https://github.com/user-attachments/assets/298e0791-cfa3-4689-a1e9-237c200a5610"><br>
   As you can see that the container had been exited before but usingthe <b>Start</b> command you can restart the container
 
-<h3><b>6. Docker rm</b></h3>
+<h3 id ="rm"><b>6. Docker rm</b></h3>
 
         docker rm <container_name or ID>
 To delete a container. By default when a container is created, it gets an ID as well as an imaginary name such as confident_boyd, heuristic_villani, etc.
@@ -68,14 +76,14 @@ To delete a container. By default when a container is created, it gets an ID as 
 <br><br>
 You can see that an already stopped container is still listen, however you can use the <b>rm</b> command to remove it
 
-<h3><b>7. Docker Images</b></h3>
+<h3 id ="img"><b>7. Docker Images</b></h3>
 
       docker images
   This command will show you all the images stored locally<br><br>
   <img src="https://github.com/user-attachments/assets/6fdb09b3-58f0-4bef-b86e-e18a5a6d96eb">
 
 
-<h3><b>8. Docker RMI</b></h3>
+<h3 id ="rmi"><b>8. Docker RMI</b></h3>
 
       docker rmi <Image Id or Image name>
 
