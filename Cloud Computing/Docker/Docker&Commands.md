@@ -3,13 +3,13 @@
 Docker is a set of <b>platform as a service (PaaS)</b> products that use OS-level virtualization to deliver software in packages called <b>containers</b>. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine.Docker is a tool that is used to automate the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation.
 
 <h1><b>Table Of Contents</b></h1>
-- <a href = "common">Common Commands</a> <br>
-- <a href = "pull">Docker Pull Command</a><br>
-- <a href="ps">Ps Command</a><br>
--<a href="stop">Stop Command</a><br>
--<a href="rm">RM command</a><br>
--<a href="img">IMG command</a><br>
--<a href="rmi">RMI command</a><br>
+- <a href = "#common">Common Commands</a> <br>
+- <a href = "#pull">Docker Pull Command</a><br>
+- <a href="#ps">Ps Command</a><br>
+-<a href="#stop">Stop Command</a><br>
+-<a href="#rm">RM command</a><br>
+-<a href="#img">IMG command</a><br>
+-<a href="#rmi">RMI command</a><br>
 <h1 id ="common">Common Commands</h1><br><br>
 <img src="https://github.com/user-attachments/assets/4db13d19-6237-479a-9b95-c03eb2000a6f" height="400",width="400"><br>
 Docker is an open-source project that automates the deployment of applications as movable, independent containers that can run locally or in the cloud. You can divide your applications from your infrastructure with the help of Docker, allowing for quick software delivery and it also allows you to manage your infrastructure in the same ways that you manage your applications. The number of commands found in docker is very huge in number, but we will be looking at the top commands in 
