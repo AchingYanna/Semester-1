@@ -99,3 +99,5 @@ A single-node cluster in Kubernetes refers to a cluster where both the control p
                 kubectl proxy --address='0.0.0.0' --disable-filter=true &
 
 15. **STEP 13** Use the following url on browser and use your public ip 
+
+       http://public_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/
