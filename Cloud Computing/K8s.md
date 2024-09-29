@@ -82,8 +82,6 @@ A single-node cluster in Kubernetes refers to a cluster where both the control p
 
                 minikube status
 
-![WhatsApp Image 2024-09-24 at 00 39 14_7cfa6cbf](https://github.com/user-attachments/assets/104cb600-c576-42b9-812a-60a979c43e71)
-
 12. **STEP 11** Grant permissions
 
                 kubectl cluster-info
@@ -98,12 +96,8 @@ A single-node cluster in Kubernetes refers to a cluster where both the control p
 
                 minikube dashboard
 
-    ![image alt](https://www.linuxbuzz.com/wp-content/uploads/2023/11/Starting-Kubernetes-Dashboard-Minikube-1024x93.png)
+
 
                 kubectl proxy --address='0.0.0.0' --disable-filter=true &
 
 15. **STEP 13** Use the following url on browser and use your public ip 
-
-               http://public_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/
-
-![image alt](https://www.linuxbuzz.com/wp-content/uploads/2023/11/Kubernetes-Dashboard-GUI-Minikube-Ubuntu-1024x640.png)
