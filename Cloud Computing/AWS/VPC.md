@@ -179,11 +179,3 @@ This guide explains how to set up a load balancer in your VPC and test its funct
   </li>
 </ol>
 
-<h2>4. Verifying Load Balancer Functionality</h2>
-<ul>
-  <li><b>Ensure the load balancer continues to route traffic</b> correctly to healthy targets.</li>
-  <li><b>Check for alerts</b> if the health check fails for any instance.</li>
-</ul>
-
-<p>This process demonstrates how to add a load balancer, create a target group, and ensure that traffic routing works even when instances fail. For more advanced configurations, refer to the <a href="https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html">AWS Application Load Balancer documentation</a>.</p>
-
