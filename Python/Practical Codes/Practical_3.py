@@ -1,3 +1,5 @@
+#PRACTICAL 3: TO FIND PRIME NUMBERS till n
+
 n = int(input("Enter the total nnumber: "))
 
 prime = [True] * (n + 1)
