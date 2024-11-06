@@ -1,3 +1,6 @@
+#PRACTICAL 8: WAP to swap first n characters between two strings
+
+
 # Input strings and the number of characters to swap
 string1 = input("Enter the first string: ")
 string2 = input("Enter the second string: ")
