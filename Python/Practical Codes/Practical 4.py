@@ -1,4 +1,4 @@
-#PRACTICAL 3: TO FIND PRIME NUMBERS till n
+#PRACTICAL 4: TO FIND PRIME NUMBERS till n
 
 n = int(input("Enter the total nnumber: "))
 
