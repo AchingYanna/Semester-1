@@ -1,6 +1,6 @@
 #PRACTICAL 4: TO FIND PRIME NUMBERS till n
 
-n = int(input("Enter the total nnumber: "))
+n = int(input("Enter the range of nnumbers: "))
 
 prime = [True] * (n + 1)
 
