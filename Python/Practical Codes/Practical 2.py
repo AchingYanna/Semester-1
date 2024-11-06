@@ -11,7 +11,7 @@ if n == 0 or n ==1:
 
 elif n >1:
          for i in range(2,n):
-             if(n%1) == 0:
+             if  n%i  == 0:
                  flag = True
                  break
 
